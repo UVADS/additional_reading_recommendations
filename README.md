@@ -1,8 +1,6 @@
 # additional_reading_recommendations
 Helpful books across leadership, interpersonal skills etc
 
-Dr Tashman's picks:
-
 ### Leadership and Communication
 
 - Leadership Strategy and Tactics: Field Manual. Jocko Willink.
