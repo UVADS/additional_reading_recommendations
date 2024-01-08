@@ -27,7 +27,6 @@ Links are provided to Amazon books
 - The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations.
 Gene Kim, Patrick Debois, et. al. [link](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404/ref=sr_1_1?crid=162L6X4JN79F4&keywords=The+DevOps+Handbook%3A+How+to+Create+World-Class+Agility%2C+R&qid=1704741014&s=books&sprefix=the+devops+handbook+how+to+create+world-class+agility%2C+r%2Cstripbooks%2C104&sr=1-1)
 
-### Books by UVA SDS Faculty
+### Introduction to Data Science
 
 - From Concepts to Code: Introduction to Data Science. Adam P Tashman. [link](https://www.amazon.com/dp/1032517980/?coliid=I2IGYOWDIF7LHD&colid=TYCB1RSCU43Y&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
-- Mathematics for Social Scientists. Jonathan Kropko. [link](https://www.amazon.com/Mathematics-Social-Scientists-Jonathan-Kropko/dp/1506304214/ref=sr_1_fkmr0_1?crid=33BETN4IQ1MY8&keywords=jon+kropko&qid=1704741559&sprefix=jon+kropko%2Caps%2C167&sr=8-1-fkmr0&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
