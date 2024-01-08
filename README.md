@@ -29,5 +29,5 @@ Gene Kim, Patrick Debois, et. al. [link](https://www.amazon.com/DevOps-Handbook-
 
 ### Books by UVA SDS Faculty
 
-- From Concepts to Code: Introdution to Data Science. Adam P Tashman. [link](https://www.amazon.com/dp/1032517980/?coliid=I2IGYOWDIF7LHD&colid=TYCB1RSCU43Y&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+- From Concepts to Code: Introduction to Data Science. Adam P Tashman. [link](https://www.amazon.com/dp/1032517980/?coliid=I2IGYOWDIF7LHD&colid=TYCB1RSCU43Y&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 - Mathematics for Social Scientists. Jonathan Kropko. [link](https://www.amazon.com/Mathematics-Social-Scientists-Jonathan-Kropko/dp/1506304214/ref=sr_1_fkmr0_1?crid=33BETN4IQ1MY8&keywords=jon+kropko&qid=1704741559&sprefix=jon+kropko%2Caps%2C167&sr=8-1-fkmr0&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
